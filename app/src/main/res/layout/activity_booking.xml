@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#E4E4E4"
+    tools:context=".booking">
+
+
+    <TableRow>
+        <TextView
+            android:text="time"
+            android:paddingLeft="35dp"
+            android:paddingRight="35dp"
+
+        />
+
+
+        <TextView
+            android:text="condetion"
+            android:paddingLeft="37dp"
+            android:paddingRight="37dp"
+
+            />
+
+
+        <TextView
+            android:text="option"
+            android:paddingLeft="47dp"
+            android:paddingRight="47dp"
+            />
+    </TableRow>
+
+
+
+    <TableRow>
+        <TextView
+            android:text="8:00 -- 8:30"
+            android:paddingLeft="35dp"
+            android:paddingRight="35dp"
+            />
+        <TextView
+            android:text="IDK"
+            android:paddingLeft="37dp"
+            android:paddingRight="37dp"
+            />
+        <Button
+            android:text="book"
+            android:paddingLeft="37dp"
+            android:paddingRight="37dp"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            />
+
+
+    </TableRow>
+
+    <TableRow>
+        <TextView
+            android:text="8:40 -- 9:10"
+            android:paddingLeft="35dp"
+            android:paddingRight="35dp"
+            />
+        <TextView
+            android:text="IDK"
+            android:paddingLeft="47dp"
+            android:paddingRight="47dp"
+            />
+        <Button
+            android:text="book"
+            android:paddingLeft="47dp"
+            android:paddingRight="47dp"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            />
+
+
+    </TableRow>
+
+
+    <TableRow>
+        <TextView
+            android:text="9:20 -- 9:40"
+            android:paddingLeft="35dp"
+            android:paddingRight="35dp"
+            />
+        <TextView
+            android:text="IDK"
+            android:paddingLeft="47dp"
+            android:paddingRight="47dp"
+            />
+        <Button
+            android:text="book"
+            android:paddingLeft="47dp"
+            android:paddingRight="47dp"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            />
+
+
+    </TableRow>
+
+
+    <TableRow>
+        <TextView
+            android:text="9:30 -- 10:00"
+            android:paddingLeft="35dp"
+            android:paddingRight="35dp"
+            />
+        <TextView
+            android:text="IDK"
+            android:paddingLeft="47dp"
+            android:paddingRight="47dp"
+            />
+        <Button
+            android:text="book"
+            android:paddingLeft="47dp"
+            android:paddingRight="47dp"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            />
+
+
+    </TableRow>
+
+
+    <TableRow>
+        <TextView
+            android:text="10:10 -- 10:400"
+            android:paddingLeft="35dp"
+            android:paddingRight="35dp"
+            />
+        <TextView
+            android:text="IDK"
+            android:paddingLeft="47dp"
+            android:paddingRight="47dp"
+            />
+        <Button
+            android:text="book"
+            android:paddingLeft="47dp"
+            android:paddingRight="47dp"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            />
+
+
+    </TableRow>
+
+
+    <TableRow>
+        <TextView
+            android:text="10:50 -- 11:20"
+            android:paddingLeft="35dp"
+            android:paddingRight="35dp"
+            />
+        <TextView
+            android:text="IDK"
+            android:paddingLeft="47dp"
+            android:paddingRight="47dp"
+            />
+        <Button
+            android:text="book"
+            android:paddingLeft="47dp"
+            android:paddingRight="47dp"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            />
+
+
+    </TableRow>
+
+
+    <TableRow>
+        <TextView
+            android:text="11:30 -- 12:00"
+            android:paddingLeft="35dp"
+            android:paddingRight="35dp"
+            />
+        <TextView
+            android:text="IDK"
+            android:paddingLeft="47dp"
+            android:paddingRight="47dp"
+            />
+        <Button
+            android:text="book"
+            android:paddingLeft="47dp"
+            android:paddingRight="47dp"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            />
+
+
+    </TableRow>
+
+
+    <TableRow>
+        <TextView
+            android:text="12:10 -- 12:40"
+            android:paddingLeft="35dp"
+            android:paddingRight="35dp"
+            />
+        <TextView
+            android:text="IDK"
+            android:paddingLeft="47dp"
+            android:paddingRight="47dp"
+            />
+        <Button
+            android:text="book"
+            android:paddingLeft="47dp"
+            android:paddingRight="47dp"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            />
+
+
+    </TableRow>
+
+
+    <TableRow>
+        <TextView
+            android:text="12:50 -- 13:20"
+            android:paddingLeft="35dp"
+            android:paddingRight="35dp"
+            />
+        <TextView
+            android:text="IDK"
+            android:paddingLeft="47dp"
+            android:paddingRight="47dp"
+            />
+        <Button
+            android:text="book"
+            android:paddingLeft="47dp"
+            android:paddingRight="47dp"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            />
+
+
+    </TableRow>
+
+
+    <TableRow>
+        <TextView
+            android:text="13:30 -- 14:00"
+            android:paddingLeft="35dp"
+            android:paddingRight="35dp"
+            />
+        <TextView
+            android:text="IDK"
+            android:paddingLeft="47dp"
+            android:paddingRight="47dp"
+            />
+        <Button
+            android:text="book"
+            android:paddingLeft="47dp"
+            android:paddingRight="47dp"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            />
+
+
+    </TableRow>
+
+
+    <TableRow>
+        <TextView
+            android:text="14:10 -- 14:40"
+            android:paddingLeft="35dp"
+            android:paddingRight="35dp"
+            />
+        <TextView
+            android:text="IDK"
+            android:paddingLeft="47dp"
+            android:paddingRight="47dp"
+            />
+        <Button
+            android:text="book"
+            android:paddingLeft="47dp"
+            android:paddingRight="47dp"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            />
+
+
+    </TableRow>
+
+
+    <TableRow>
+        <TextView
+            android:text="14:50 -- 15:20"
+            android:paddingLeft="35dp"
+            android:paddingRight="35dp"
+            />
+        <TextView
+            android:text="IDK"
+            android:paddingLeft="47dp"
+            android:paddingRight="47dp"
+            />
+        <Button
+            android:text="book"
+            android:paddingLeft="47dp"
+            android:paddingRight="47dp"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            />
+
+
+    </TableRow>
+
+
+    <TableRow>
+        <TextView
+            android:text="15:30 -- 16:00"
+            android:paddingLeft="35dp"
+            android:paddingRight="35dp"
+            />
+        <TextView
+            android:text="IDK"
+            android:paddingLeft="47dp"
+            android:paddingRight="47dp"
+            />
+        <Button
+            android:text="book"
+            android:paddingLeft="47dp"
+            android:paddingRight="47dp"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            />
+
+
+    </TableRow>
+
+
+    <TableRow>
+        <TextView
+            android:text="16:10 -- 16:40"
+            android:paddingLeft="35dp"
+            android:paddingRight="35dp"
+            />
+        <TextView
+            android:text="IDK"
+            android:paddingLeft="47dp"
+            android:paddingRight="47dp"
+            />
+        <Button
+            android:text="book"
+            android:paddingLeft="47dp"
+            android:paddingRight="47dp"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            />
+
+
+    </TableRow>
+
+
+    <TableRow>
+        <TextView
+            android:text="15:50 -- 17:20"
+            android:paddingLeft="35dp"
+            android:paddingRight="35dp"
+            />
+        <TextView
+            android:text="IDK"
+            android:paddingLeft="47dp"
+            android:paddingRight="47dp"
+            />
+        <Button
+            android:text="book"
+            android:paddingLeft="47dp"
+            android:paddingRight="47dp"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            />
+
+
+    </TableRow>
+
+
+    <TableRow>
+        <TextView
+            android:text="8:00 -- 8:30"
+            android:paddingLeft="47dp"
+            android:paddingRight="47dp"
+            />
+        <TextView
+            android:text="IDK"
+            android:paddingLeft="47dp"
+            android:paddingRight="47dp"
+            />
+        <Button
+            android:text="book"
+            android:paddingLeft="47dp"
+            android:paddingRight="47dp"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            />
+
+
+    </TableRow>
+
+
+
+
+</TableLayout>
